@@ -1,0 +1,5 @@
+l=[1,2,3,4]
+sum1=0
+for i in range(len(l)):
+    sum1+=l[i]
+print(sum1)
