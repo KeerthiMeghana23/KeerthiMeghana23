@@ -1,0 +1,4 @@
+list_a=[['ece',1],['cse', 2],['civil',3]]
+b=dict(list_a)
+print(b)
+print(type(b))
